@@ -1,5 +1,7 @@
 # MagiAI
 A simple Artificial Intelligence that controles your computer through simple commands writen in python.
 Current Commands:
-    * Youtube Search
-    * Google Search
+Command Name  | Usage
+------------- | -------------
+searchYoutube()  | Searches Youtube
+searchGoogle()  | Searches Google
