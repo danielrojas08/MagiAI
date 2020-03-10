@@ -1,7 +1,12 @@
 # MagiAI
-A simple Artificial Intelligence that controles your computer through simple commands writen in python.
-Current Commands:
-Command Name  | Usage
-------------- | -------------
-searchYoutube()  | Searches Youtube
-searchGoogle()  | Searches Google
+A open source artificial inteligence. To make new skills make one file python scripts and add it to the main.py file. To look how to add it look in the main.py file and look at our examples.
+## Skill List:
+  - Google Search
+  - Youtube Search
+## Credits
+  - Terminator - Skynet
+  - Python Programing Language
+  - Open CV
+  - SAO - Yui
+  - Caio - Secondary Programer
+  - Mom Dad Sis - Inspiration
